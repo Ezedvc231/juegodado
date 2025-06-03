@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1748838920 source:c:\users\maxib\onedrive\escritorio\trucoproyecto\juegodedados\main.cpp
+	<iostream>
+	"funcionDados.h"
+
+1748838920 c:\users\maxib\onedrive\escritorio\trucoproyecto\juegodedados\funciondados.h
+	<iostream>
+
