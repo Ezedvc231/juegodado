@@ -2,10 +2,10 @@
 #define FUNCIONDADOS_H_INCLUDED
 #include <iostream>
 
-    using namespace std;
+using namespace std;
 
-    void menuJuego();
-    void Jugadores();
+void menuJuego();
+void Jugadores();
 
 
 

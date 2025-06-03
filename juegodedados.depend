@@ -6,3 +6,14 @@
 1748838920 c:\users\maxib\onedrive\escritorio\trucoproyecto\juegodedados\funciondados.h
 	<iostream>
 
+1748973027 source:c:\users\lain\desktop\juegodado\main.cpp
+	<iostream>
+	"funcionDados.h"
+
+1748972476 c:\users\lain\desktop\juegodado\funciondados.h
+	<iostream>
+
+1748974183 source:c:\users\lain\desktop\juegodado\declaracionesdado.cpp
+	<iostream>
+	"funcionDados.h"
+
