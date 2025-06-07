@@ -1,9 +1,11 @@
 # depslib dependency file v1.0
-1748838920 source:c:\users\maxib\onedrive\escritorio\trucoproyecto\juegodedados\main.cpp
+1749168499 source:c:\users\maxib\onedrive\escritorio\trucoproyecto\juegodedados\main.cpp
 	<iostream>
+	<cstdlib>
+	<ctime>
 	"funcionDados.h"
 
-1748838920 c:\users\maxib\onedrive\escritorio\trucoproyecto\juegodedados\funciondados.h
+1749168263 c:\users\maxib\onedrive\escritorio\trucoproyecto\juegodedados\funciondados.h
 	<iostream>
 
 1748973027 source:c:\users\lain\desktop\juegodado\main.cpp
@@ -15,5 +17,12 @@
 
 1748974183 source:c:\users\lain\desktop\juegodado\declaracionesdado.cpp
 	<iostream>
+	"funcionDados.h"
+
+1749256417 source:c:\users\maxib\onedrive\escritorio\trucoproyecto\juegodedados\declaracionesdado.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
 	"funcionDados.h"
 

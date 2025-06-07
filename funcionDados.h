@@ -3,9 +3,9 @@
 #include <iostream>
 
 using namespace std;
-
+void Jugar();
 void menuJuego();
-void Jugadores();
+
 
 
 

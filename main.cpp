@@ -1,6 +1,10 @@
 #include <iostream>
-#include "funcionDados.h"
+#include <cstdlib>
+#include <ctime>
 using namespace std;
+#include "funcionDados.h"
+
+
 
 int main(){
 
